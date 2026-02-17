@@ -1,0 +1,7 @@
+# Это НЕ pip requirements.
+# Проект на Node.js (API + Bot + WebApp), поэтому зависимости ставятся через npm.
+# Этот файл — краткий список системных требований для запуска.
+
+node >= 18
+npm  >= 9
+cloudflared (Cloudflare Tunnel)

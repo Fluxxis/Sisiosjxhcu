@@ -1,0 +1,33 @@
+{
+  "BOT_TOKEN": "8213130724:AAGhCyVuXldLtQgwB0zp_YdQgFhZb7nL_LY",
+  "ADMIN_TG_IDS": "7225974704",
+
+  "PORT": "8787",
+  "CORS_ORIGIN": "http://localhost:3000",
+
+  "DEMO_MODE": "1",
+  "DEMO_MAIN_PRIZE_IDS": "1,2,3,4",
+  "DEMO_MAIN_PROB": "0.9",
+
+  "ROUND_TARGET_TON": "0.10",
+  "RAKEBACK_PCT": "0.005",
+  "REFERRAL_PCT": "0.0025",
+  "MIN_WITHDRAW_TON": "1",
+
+  "TREASURY_ADDRESS": "UQCny1f98kWJpIUBB_s-8NVq-qFHVWCLKBjwkVdt9Z6fmWrF",
+
+  "TON_NETWORK": "mainnet",
+  "TONCENTER_BASE_URL": "https://toncenter.com/api/v2",
+  "TONCENTER_API_KEY": "",
+  "TON_RPC_URL": "https://toncenter.com/api/v2/jsonRPC",
+  "TREASURY_MNEMONIC": "kangaroo prevent please gasp man youth gallery toward toward mouse portion wear radar chase category youth boring cause cover wash success weasel photo lens",
+
+  "CRYPTOBOT_API_TOKEN": "533778:AAz4aQ1j53I02DwNUUy72aW500UOxTJIbao",
+  "CRYPTOBOT_BASE_URL": "https://pay.crypt.bot",
+
+  "DEPOSIT_POLL_MS": "6000",
+  "WITHDRAW_POLL_MS": "4000",
+
+  "ALLOW_DEMO_AUTH": "1",
+  "SKIP_SUB_CHECK": "1"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "apps-bot",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node bot.js",
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}

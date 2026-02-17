@@ -1,0 +1,11 @@
+{
+  "BOT_TOKEN": "8213130724:AAGhCyVuXldLtQgwB0zp_YdQgFhZb7nL_LY",
+  "ADMIN_TG_IDS": "7225974704",
+
+  "CHANNEL_URL": "https://t.me/your_channel",
+  "CHAT_URL": "https://t.me/your_chat",
+  "SUPPORT_URL": "https://t.me/your_support",
+
+  "API_URL": "http://localhost:8787",
+  "WEBAPP_URL": "http://localhost:3000"
+}
